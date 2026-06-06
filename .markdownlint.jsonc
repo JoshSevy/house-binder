@@ -1,0 +1,23 @@
+{
+  // Start from markdownlint defaults; relax rules that get in the way of house docs.
+  "default": true,
+
+  // Long product names, schedules, and notes are normal here.
+  "MD013": false,
+
+  // MkDocs Material admonitions and other HTML are fine.
+  "MD033": false,
+
+  // Pages may start with metadata or intro text before the title.
+  "MD041": false,
+
+  // Repeated section names (e.g. "Notes" under different headings) are OK.
+  "MD024": {
+    "siblings_only": true
+  },
+
+  // Keep log tables readable; auto-fix with: npx markdownlint-cli2 --fix "docs/**/*.md"
+  "MD060": {
+    "style": "aligned"
+  }
+}

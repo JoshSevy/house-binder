@@ -1,0 +1,18 @@
+site_name: House Binder
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Lawn:
+      - Fertilizer Recipes: lawn/fertilizer-recipes.md
+      - Seeding: lawn/seeding.md
+      - Weed Control: lawn/weed-control.md
+      - Insect Control: lawn/insect-control.md
+      - Watering: lawn/watering.md
+  - Irrigation:
+      - Rachio: irrigation/rachio.md
+      - Zone Map: irrigation/zone-map.md
+      - Catch Can Tests: irrigation/catch-can-tests.md
+  - Logs:
+      - 2026 Lawn Log: logs/2026-lawn-log.md
