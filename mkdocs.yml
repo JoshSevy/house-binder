@@ -1,18 +1,37 @@
 site_name: House Binder
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
 
 nav:
   - Home: index.md
+  - Seasonal Calendar: seasonal-calendar.md
   - Lawn:
-      - Fertilizer Recipes: lawn/fertilizer-recipes.md
+      - Fertilizer Recipe: lawn/fertilizer-recipe.md
       - Seeding: lawn/seeding.md
       - Weed Control: lawn/weed-control.md
       - Insect Control: lawn/insect-control.md
       - Watering: lawn/watering.md
+      - Problem Areas: lawn/problem-areas.md
   - Irrigation:
       - Rachio: irrigation/rachio.md
+      - Rachio Notes: irrigation/rachio-notes.md
       - Zone Map: irrigation/zone-map.md
-      - Catch Can Tests: irrigation/catch-can-tests.md
+      - Catch Can Test: irrigation/catch-can-test.md
+  - Landscaping:
+      - Shrubs: landscaping/shrubs.md
+      - Retaining Wall: landscaping/retaining-wall.md
+      - Drainage: landscaping/drainage.md
+  - House:
+      - Equipment: house/equipment.md
+      - Product Log: house/product-log.md
+      - Vendors: house/vendors.md
+  - Projects:
+      - Backlog: projects/backlog.md
+      - Completed Projects: projects/completed-projects.md
   - Logs:
       - 2026 Lawn Log: logs/2026-lawn-log.md

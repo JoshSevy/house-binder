@@ -24,6 +24,14 @@ This repository serves as a central source of truth for:
 
 Published via GitHub Pages using MkDocs.
 
+For local development:
+
+```sh
+mkdocs serve
+```
+
+Then open the local URL printed by MkDocs.
+
 ## Major Sections
 
 - Lawn
@@ -31,3 +39,9 @@ Published via GitHub Pages using MkDocs.
 - Landscaping
 - Maintenance Logs
 - Home Systems
+
+## Product Roadmap
+
+1. Website: establish the binder structure, navigation, search, and durable content model.
+2. Shared data model: define records for assets, projects, tasks, logs, vendors, products, and reminders.
+3. Native apps: build iOS and Android experiences around the proven website workflows.
