@@ -8,7 +8,7 @@ Restore turf density, improve drought tolerance, reduce weed pressure, and estab
 
 # Best Timing
 
-**Primary Renovation Window**
+## Primary Renovation Window
 
 Late summer through early fall.
 

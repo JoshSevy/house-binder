@@ -32,6 +32,14 @@ mkdocs serve
 
 Then open the local URL printed by MkDocs.
 
+Convenience commands:
+
+```sh
+npm run serve
+npm run build
+npm run lint
+```
+
 ## Major Sections
 
 - Lawn

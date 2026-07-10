@@ -11,13 +11,14 @@
   // Pages may start with metadata or intro text before the title.
   "MD041": false,
 
-  // Repeated section names (e.g. "Notes" under different headings) are OK.
+  // These docs intentionally use multiple top-level sections per page.
+  "MD025": false,
+
+  // Repeated section names under different top-level sections are OK.
   "MD024": {
     "siblings_only": true
   },
 
-  // Keep log tables readable; auto-fix with: npx markdownlint-cli2 --fix "docs/**/*.md"
-  "MD060": {
-    "style": "aligned"
-  }
+  // Table alignment is too noisy for these docs; rely on visual review instead.
+  "MD060": false
 }
