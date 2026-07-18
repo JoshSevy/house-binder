@@ -193,4 +193,65 @@ Seed only areas that did not establish well.
 
 ### Improvements for Next Year
 
--
+## Renovation Record
+
+### General Information
+
+- Year:
+- Property area:
+- Renovation type:
+- Planned start date:
+- Actual start date:
+- Completed date:
+
+### Initial Assessment
+
+- Overall turf condition:
+- Estimated turf coverage:
+- Bare soil percentage:
+- Weed pressure:
+- Compaction level:
+- Irrigation coverage:
+- Primary concerns:
+
+### Work Completed
+
+- [ ] Broadleaf weed control
+- [ ] Core aeration
+- [ ] Overseeding
+- [ ] Topdressing
+- [ ] Mesotrione application
+- [ ] Establishment watering
+- [ ] First mowing
+
+### Materials and Applications
+
+- Seed blend:
+- Seed rate:
+- Topdressing material:
+- Herbicide:
+- Herbicide rate:
+- Fertilizer recipe:
+- Other products:
+
+### Conditions
+
+- Temperature range:
+- Rainfall:
+- Irrigation schedule:
+- Notable weather events:
+
+### Results
+
+- Germination date:
+- First mowing date:
+- Establishment quality:
+- Remaining thin areas:
+- Weed pressure after renovation:
+- Overall outcome:
+
+### Lessons Learned
+
+- What worked:
+- What did not work:
+- Changes for the next renovation:

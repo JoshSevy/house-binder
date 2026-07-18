@@ -47,24 +47,31 @@ Purpose:
 
 ## Summer Blend
 
-Apply every 3-4 weeks.
+Apply every 3 weeks.
 
 Per 1 Gallon Concentrate:
 
-- 4 oz Fish Fertilizer
-- 6 oz Kelp
-- 3 oz Humic Acid
-- 2-3 oz Liquid Iron
+- 6 oz Fish Fertilizer
+- 5 oz Kelp
+- 4 oz Humic Acid
+- 2 oz Liquid Iron
 - 1 tbsp Molasses
 - 2 oz Yucca Extract
-- 4 oz Liquid Aeration
+- 3 oz Liquid Aeration
 - Water to fill 1 gallon
 
 Purpose:
 
-- Heat tolerance
-- Water efficiency
-- Stress reduction
+- Reduce heat stress
+- Improve drought tolerance
+- Increase water infiltration
+- Continue building soil biology
+
+Notes:
+
+- Reduce fish fertilizer slightly during periods of prolonged heat.
+- Increase kelp and humic acid to support stress recovery.
+- Continue regular applications even if growth slows.
 
 ---
 
@@ -72,7 +79,7 @@ Purpose:
 
 Use after germination.
 
-Per 1 Gallon:
+Per 1 Gallon Concentrate:
 
 - 2 oz Fish Fertilizer
 - 2 oz Kelp
@@ -84,3 +91,13 @@ Purpose:
 
 - Gentle root development
 - Seedling support
+
+---
+
+## Application Guidelines
+
+- Apply during the cooler parts of the day.
+- Avoid application during extreme heat (>90°F) unless irrigation is available.
+- Shake concentrate well before use.
+- Store concentrates out of direct sunlight.
+- Clean sprayer thoroughly after each use.

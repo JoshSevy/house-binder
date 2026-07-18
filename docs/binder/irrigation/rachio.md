@@ -6,7 +6,7 @@ Model:
 
 Installed:
 
-- TBD
+- June 2026
 
 ---
 
@@ -16,6 +16,7 @@ Installed:
 - Configure spray heads correctly
 - Enter soil and sun exposure information
 - Use fixed schedules during seed establishment
+- Keep cycle-and-soak at 10+10 while turf is establishing
 
 ---
 

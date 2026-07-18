@@ -4,9 +4,15 @@
 
 Date Installed:
 
+- June 2026
+
 Firmware Version:
 
+- Capture from controller app during next inspection
+
 Zones Configured:
+
+- 12 active turf zones (controller supports 16 total)
 
 ---
 
@@ -18,6 +24,8 @@ Water Restrictions:
 
 Cycle and Soak:
 
+- 10 minutes
+- 2 hour soak
 - 10 minutes
 - 2 hour soak
 - 10 minutes

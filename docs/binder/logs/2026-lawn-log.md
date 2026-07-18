@@ -6,7 +6,7 @@
 
 Date:
 
-- TBD
+- Spring 2026 (exact date not recorded)
 
 Notes:
 
@@ -19,7 +19,7 @@ Notes:
 
 Date:
 
-- TBD
+- Spring 2026 (exact date not recorded)
 
 Notes:
 
@@ -32,7 +32,7 @@ Notes:
 
 Date:
 
-- TBD
+- Spring 2026 (exact date not recorded)
 
 Notes:
 
@@ -46,7 +46,7 @@ Notes:
 
 | Date   | Recipe       | Notes                 |
 |--------|--------------|-----------------------|
-| TBD    | Spring Blend | Initial application   |
+| April 2026 (exact date not recorded) | Spring Blend | Initial application   |
 
 ---
 
@@ -54,4 +54,4 @@ Notes:
 
 | Date | Change            | Notes                         |
 |------|-------------------|-------------------------------|
-| TBD  | Increased runtime | Changed from 6+6 to 10+10     |
+| June 2026 | Increased runtime | Changed from 6+6 to 10+10 after controller tuning |

@@ -10,28 +10,51 @@ theme:
 nav:
   - Home: index.md
   - Seasonal Calendar: seasonal-calendar.md
-  - Lawn:
-      - Fertilizer Recipe: lawn/fertilizer-recipe.md
-      - Seeding: lawn/seeding.md
-      - Weed Control: lawn/weed-control.md
-      - Insect Control: lawn/insect-control.md
-      - Watering: lawn/watering.md
-      - Problem Areas: lawn/problem-areas.md
-  - Irrigation:
-      - Rachio: irrigation/rachio.md
-      - Rachio Notes: irrigation/rachio-notes.md
-      - Zone Map: irrigation/zone-map.md
-      - Catch Can Test: irrigation/catch-can-test.md
-  - Landscaping:
-      - Shrubs: landscaping/shrubs.md
-      - Retaining Wall: landscaping/retaining-wall.md
-      - Drainage: landscaping/drainage.md
-  - House:
-      - Equipment: house/equipment.md
-      - Product Log: house/product-log.md
-      - Vendors: house/vendors.md
+  - Property Binder:
+      - Lawn:
+          - Annual Program: binder/lawn/annual-lawn-program.md
+          - Fertilizer Recipe: binder/lawn/fertilizer-recipe.md
+          - Seeding: binder/lawn/seeding.md
+          - Weed Control: binder/lawn/weed-control.md
+          - Insect Control: binder/lawn/insect-control.md
+          - Watering: binder/lawn/watering.md
+          - Problem Areas: binder/lawn/problem-areas.md
+          - Renovation Playbook: binder/lawn/playbooks/lawn-renovation.md
+      - Irrigation:
+          - Rachio: binder/irrigation/rachio.md
+          - Rachio Notes: binder/irrigation/rachio-notes.md
+          - Zone Map: binder/irrigation/zone-map.md
+          - Catch Can Test: binder/irrigation/catch-can-test.md
+      - Landscaping:
+          - Shrubs: binder/landscaping/shrubs.md
+          - Retaining Wall: binder/landscaping/retaining-wall.md
+          - Drainage: binder/landscaping/drainage.md
+      - House:
+          - Equipment: binder/house/equipment.md
+          - Inventory: binder/house/inventory.md
+          - Product Log: binder/house/product-log.md
+          - Vendors: binder/house/vendors.md
+      - Logs:
+          - 2026 Lawn Log: binder/logs/2026-lawn-log.md
+  - PropertyOps:
+      - Vision: product/vision.md
+      - Principles: product/principles.md
+      - Roadmap: product/roadmap.md
+      - Foundation: product/propertyops-foundation.md
+      - Architecture:
+          - Backlog: product/architecture/backlog.md
+          - ADRs:
+              - Markdown First: product/architecture/adr/adr-0001-markdown-first.md
+              - Event-Driven Inventory: product/architecture/adr/adr-0002-event-driven-product-lifecycle.md
+          - Domain Models:
+              - Overview: product/architecture/domain-models/README.md
+              - Context Map: product/architecture/domain-models/context-map.md
+              - Products:
+                  - Overview: product/architecture/domain-models/products/README.md
+                  - Product Catalog: product/architecture/domain-models/products/product-catalog.md
+                  - Inventory: product/architecture/domain-models/products/inventory.md
+                  - Purchasing: product/architecture/domain-models/products/purchasing.md
+                  - Commerce: product/architecture/domain-models/products/commerce.md
   - Projects:
       - Backlog: projects/backlog.md
       - Completed Projects: projects/completed-projects.md
-  - Logs:
-      - 2026 Lawn Log: logs/2026-lawn-log.md

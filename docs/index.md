@@ -7,9 +7,9 @@ A digital home binder for maintenance records, seasonal routines, projects, vend
 - [Seasonal Calendar](seasonal-calendar.md): Month-by-month reminders for recurring work.
 - [Project Backlog](projects/backlog.md): Open improvements and future ideas.
 - [Completed Projects](projects/completed-projects.md): Finished work and historical decisions.
-- [Equipment](house/equipment.md): Models, settings, manuals, and warranty details.
-- [Product Log](house/product-log.md): Materials, supplies, and application notes.
-- [Vendors](house/vendors.md): Contractor and service-provider reference.
+- [Equipment](binder/house/equipment.md): Models, settings, manuals, and warranty details.
+- [Product Log](binder/house/product-log.md): Materials, supplies, and application notes.
+- [Vendors](binder/house/vendors.md): Contractor and service-provider reference.
 
 ## Core Areas
 
